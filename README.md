@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Siddhesh Surve</h1>
-<h3 align="center">A passionate software developer from Maharashtra, India</h3>
-<img  alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey There👋, I'm Siddhesh Surve</h1>
+<h3 align="center">A passionate software developer from Pune, India</h3>
+<br/>
+<p align="center"><img width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" class="center"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshsurve&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshsurve" class="center" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshsurve" alt="siddheshsurve" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/siddheshsurve83" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshsurve83?logo=twitter&style=for-the-badge" alt="siddheshsurve83" /></a> </p>
+<p align="center"> <a href="https://twitter.com/siddheshsurve83" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshsurve83?logo=twitter&style=for-the-badge" alt="siddheshsurve83" /></a> </p>
 
 - 🔭 I’m currently working on **Resume Builder**
 
