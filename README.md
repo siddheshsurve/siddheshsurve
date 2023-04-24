@@ -1,7 +1,7 @@
 <h1 align="center">Hey There👋, I'm Siddhesh Surve</h1>
 <h3 align="center">A passionate software developer from Pune, India</h3>
 <br/>
-<p align="center"><img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" class="center"></p>
+<p align="center"><img width="625" height="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" class="center"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshsurve&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshsurve" class="center" /> </p>
 
