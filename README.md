@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sysurve24@gmail.com**
 
-- ⚡ Fun fact **I like to play Cricket and Badminton**
+- ⚡ Fun fact : **I like to play Cricket and Badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
